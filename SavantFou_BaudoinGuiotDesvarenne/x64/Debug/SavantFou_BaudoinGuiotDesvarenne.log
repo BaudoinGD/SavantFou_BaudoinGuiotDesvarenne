@@ -1,0 +1,6 @@
+﻿  Creature.cpp
+F:\Sound_PX\Exercice\Prog_Objet\SavantFou_BaudoinGuiotDesvarenne\SavantFou_BaudoinGuiotDesvarenne\Creature.cpp(102,15): warning C4552: '*' : résultat de l'expression non utilisé
+F:\Sound_PX\Exercice\Prog_Objet\SavantFou_BaudoinGuiotDesvarenne\SavantFou_BaudoinGuiotDesvarenne\Creature.cpp(114,15): warning C4552: '/' : résultat de l'expression non utilisé
+F:\Sound_PX\Exercice\Prog_Objet\SavantFou_BaudoinGuiotDesvarenne\SavantFou_BaudoinGuiotDesvarenne\Creature.cpp(115,15): warning C4552: '/' : résultat de l'expression non utilisé
+F:\Sound_PX\Exercice\Prog_Objet\SavantFou_BaudoinGuiotDesvarenne\SavantFou_BaudoinGuiotDesvarenne\Creature.cpp(137,15): warning C4552: '-' : résultat de l'expression non utilisé
+  SavantFou_BaudoinGuiotDesvarenne.vcxproj -> F:\Sound_PX\Exercice\Prog_Objet\SavantFou_BaudoinGuiotDesvarenne\x64\Debug\SavantFou_BaudoinGuiotDesvarenne.exe
